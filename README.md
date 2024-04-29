@@ -1,4 +1,4 @@
-<img align="center" src="https://assets-global.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science.jpg" alt="gopal mahto"/>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMf7n0JsIka21hA4M5qQNzAxEXw4pOhH6Dfj9YTaVH&s" alt="gopal mahto" width=100% ></center>
 <h1 align="center">Hi 👋, I'm Gopal Mahto</h1>
 <h3 align="center">Passionate data analyst with expertise in statistical analysis and data visualization.</h3>
 
