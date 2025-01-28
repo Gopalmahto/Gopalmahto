@@ -1,4 +1,4 @@
-<center><img src="https://chatgpt.com/c/6799013a-5098-8005-ab87-db3251013e47" alt="gopal mahto" width=100% ></center>
+<center><img src="[https://chatgpt.com/c/6799013a-5098-8005-ab87-db3251013e47](https://chatgpt.com/c/6799013a-5098-8005-ab87-db3251013e47)" alt="gopal mahto" width=100% ></center>
 <h1 align="center">Hi 👋, I'm Gopal Mahto</h1>
 <h3 align="center">Passionate data analyst with expertise in statistical analysis and data visualization.</h3>
 
