@@ -1,4 +1,4 @@
-<center><img src="[[https://chatgpt.com/c/6799013a-5098-8005-ab87-db3251013e47](https://chatgpt.com/c/6799013a-5098-8005-ab87-db3251013e47)](https://media.licdn.com/dms/image/v2/C4D12AQGT0wqJTMjHtw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1631275853497?e=2147483647&v=beta&t=QEh9bTBSsAoR-WFIGJxGaTlONniZiHs2vCLFGK5lZtM)" alt="gopal mahto" width=100% ></center>
+<center><img src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg" alt="gopal mahto" width=100% ></center>
 <h1 align="center">Hi 👋, I'm Gopal Mahto</h1>
 <h3 align="center">Passionate data analyst with expertise in statistical analysis and data visualization.</h3>
 
