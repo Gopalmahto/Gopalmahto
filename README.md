@@ -1,4 +1,6 @@
-<center><img src="[https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/186162569/original/82ce82a391580469c6ba4f20cf93a21d1e0c07f4/develop-a-backend-for-your-project-in-java.png)" alt="gopal mahto" width=100% ></center>
+<p align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/186162569/original/82ce82a391580469c6ba4f20cf93a21d1e0c07f4/develop-a-backend-for-your-project-in-java.png" alt="Gopal Mahto Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Gopal Mahto</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
